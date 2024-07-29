@@ -1,0 +1,16 @@
+1 #dev
+wwwwwwww
+2 #jdbc.auth.driverClassName=Altibase.jdbc.driver. AltibaseDriver
+3 #jdbc.auth.url=jdbc: Altibase://192.168.38.194:20300/authdb?Alternates
+4 #jdbc.auth.username=OQ0ADVLITMmiFYa/yli0QSgNebrf7Bh4aFhQ1BCj5sCrbdqZo
+5 #jdbc.auth.pass_word=4xQW5kz/3UKRmF0g0f+F4aSYOqg6cdvBBxRduRW+yLNKX53+
+6 #
+7 #jdbc.bof.driverClassName=Altibase.jdbc.driver. AltibaseDriver
+wwwwww
+8 #jdbc.bof.url=jdbc:Altibase://192.168.38.197:20300/authdb?Alternate Se
+9 #jdbc.bof.username=WWdgoFESEMgLuUNrGdTLhB8Mn0759BSvNudRFPSIEVFysYu6ie
+#jdbc.bof.pass_word=G/7hf60DIgGJExJmi9TWUt7ahwwT6G1DhSBGwHY/6EHT95q1M
+10
+11
+12 #exam
+13 jdbc.auth.driverClassName=Altibase.jdbc.driver. AltibaseDriver
